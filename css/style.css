@@ -30,6 +30,7 @@ html,body{
 	display: flex;
   	justify-content: center;
 	align-items: center;
+	display:-webkit-flex
 	
 	/*display: -webkit-box;*/
  /* 	display: -moz-box;*/
