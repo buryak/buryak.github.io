@@ -135,6 +135,10 @@ li{
 	padding: 0 5px;
 }
 
+.social a:focus{
+	outline: #41b883 solid 1px;
+}
+
 canvas{
   display:block;
   vertical-align:bottom;
