@@ -88,7 +88,7 @@ html{
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-h1{
+header{
   font: 30px 'Source Sans Pro', sans-serif;
 	text-align: center;
 	padding: 20px 0px;
